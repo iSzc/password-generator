@@ -1,7 +1,7 @@
 <h1 align="center">Password Generator</h1>
 
 <p align="center">
-  <img alt="Password Generator" src=".github/PasswordGenerator.png">
+  <img alt="Password Generator" src="public/PasswordGenerator.png">
 </p>
 
 ## 💣 Projeto
